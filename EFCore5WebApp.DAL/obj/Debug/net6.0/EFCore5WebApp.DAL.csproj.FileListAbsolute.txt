@@ -1,0 +1,15 @@
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\bin\Debug\net6.0\EFCore5WebApp.DAL.deps.json
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\bin\Debug\net6.0\EFCore5WebApp.DAL.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\bin\Debug\net6.0\EFCore5WebApp.DAL.pdb
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\bin\Debug\net6.0\EFCore5WebApp.Core.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\bin\Debug\net6.0\EFCore5WebApp.Core.pdb
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.csproj.AssemblyReference.cache
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.AssemblyInfoInputs.cache
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.AssemblyInfo.cs
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.csproj.CopyComplete
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\refint\EFCore5WebApp.DAL.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\EFCore5WebApp.DAL.pdb
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\obj\Debug\net6.0\ref\EFCore5WebApp.DAL.dll

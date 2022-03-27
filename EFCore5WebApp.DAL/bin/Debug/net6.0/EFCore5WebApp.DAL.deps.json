@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EFCore5WebApp.DAL/1.0.0": {
+        "dependencies": {
+          "EFCore5WebApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "EFCore5WebApp.DAL.dll": {}
+        }
+      },
+      "EFCore5WebApp.Core/1.0.0": {
+        "runtime": {
+          "EFCore5WebApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EFCore5WebApp.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EFCore5WebApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\bin\Debug\net6.0\EFCore5WebApp.Core.deps.json
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\bin\Debug\net6.0\EFCore5WebApp.Core.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\bin\Debug\net6.0\EFCore5WebApp.Core.pdb
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.csproj.AssemblyReference.cache
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.AssemblyInfoInputs.cache
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.AssemblyInfo.cs
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\refint\EFCore5WebApp.Core.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\EFCore5WebApp.Core.pdb
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\obj\Debug\net6.0\ref\EFCore5WebApp.Core.dll
