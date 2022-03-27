@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore5WebApp.Core", "EFCor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore5WebApp.DAL", "EFCore5WebApp.DAL\EFCore5WebApp.DAL.csproj", "{714FCFE4-7492-49C4-B852-51CE2D811EBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore5WebApp.DAL.Tests", "EFCore5WebApp.DAL.Tests\EFCore5WebApp.DAL.Tests.csproj", "{5653AFE2-9A5A-42DA-9D00-5134F6EC2D32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{714FCFE4-7492-49C4-B852-51CE2D811EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{714FCFE4-7492-49C4-B852-51CE2D811EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{714FCFE4-7492-49C4-B852-51CE2D811EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5653AFE2-9A5A-42DA-9D00-5134F6EC2D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5653AFE2-9A5A-42DA-9D00-5134F6EC2D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5653AFE2-9A5A-42DA-9D00-5134F6EC2D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5653AFE2-9A5A-42DA-9D00-5134F6EC2D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

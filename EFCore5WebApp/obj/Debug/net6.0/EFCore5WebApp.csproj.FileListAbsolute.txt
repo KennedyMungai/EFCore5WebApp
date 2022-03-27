@@ -59,3 +59,7 @@ C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCo
 C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\obj\Debug\net6.0\EFCore5WebApp.pdb
 C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\obj\Debug\net6.0\EFCore5WebApp.genruntimeconfig.cache
 C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\obj\Debug\net6.0\ref\EFCore5WebApp.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\bin\Debug\net6.0\EFCore5WebApp.Core.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\bin\Debug\net6.0\EFCore5WebApp.DAL.dll
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\bin\Debug\net6.0\EFCore5WebApp.DAL.pdb
+C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp\bin\Debug\net6.0\EFCore5WebApp.Core.pdb

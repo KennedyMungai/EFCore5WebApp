@@ -1,3 +1,5 @@
+//This project should be EFCore5WebApp.Core.Tests
+
 using NUnit.Framework;
 
 namespace EFCore5WebApp.Tests

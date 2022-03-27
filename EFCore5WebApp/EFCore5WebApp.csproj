@@ -15,4 +15,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.DAL\EFCore5WebApp.DAL.csproj" />
+    <ProjectReference Include="C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\EFCore5WebApp.Core.csproj" />
+  </ItemGroup>
+
 </Project>

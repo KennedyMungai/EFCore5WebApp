@@ -631,6 +631,30 @@
             "rid": "win"
           }
         }
+      },
+      "EFCore5WebApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EFCore5WebApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCore5WebApp.Core.dll": {}
+        }
+      },
+      "EFCore5WebApp.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EFCore5WebApp.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
+        },
+        "compile": {
+          "bin/placeholder/EFCore5WebApp.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCore5WebApp.DAL.dll": {}
+        }
       }
     }
   },
@@ -1850,10 +1874,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EFCore5WebApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../EFCore5WebApp.Core/EFCore5WebApp.Core.csproj",
+      "msbuildProject": "../EFCore5WebApp.Core/EFCore5WebApp.Core.csproj"
+    },
+    "EFCore5WebApp.DAL/1.0.0": {
+      "type": "project",
+      "path": "../EFCore5WebApp.DAL/EFCore5WebApp.DAL.csproj",
+      "msbuildProject": "../EFCore5WebApp.DAL/EFCore5WebApp.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EFCore5WebApp.Core >= 1.0.0",
+      "EFCore5WebApp.DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3"
@@ -1885,7 +1921,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HannibalBarca\\Documents\\Visual Studio Projects\\EntityFrameworkCore\\EFCore5WebApp\\EFCore5WebApp.Core\\EFCore5WebApp.Core.csproj": {
+              "projectPath": "C:\\Users\\HannibalBarca\\Documents\\Visual Studio Projects\\EntityFrameworkCore\\EFCore5WebApp\\EFCore5WebApp.Core\\EFCore5WebApp.Core.csproj"
+            },
+            "C:\\Users\\HannibalBarca\\Documents\\Visual Studio Projects\\EntityFrameworkCore\\EFCore5WebApp\\EFCore5WebApp.DAL\\EFCore5WebApp.DAL.csproj": {
+              "projectPath": "C:\\Users\\HannibalBarca\\Documents\\Visual Studio Projects\\EntityFrameworkCore\\EFCore5WebApp\\EFCore5WebApp.DAL\\EFCore5WebApp.DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

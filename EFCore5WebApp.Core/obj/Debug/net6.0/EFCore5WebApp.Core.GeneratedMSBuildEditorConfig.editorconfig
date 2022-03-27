@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EFCore5WebApp.Core
-build_property.ProjectDir = C:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\
+build_property.ProjectDir = c:\Users\HannibalBarca\Documents\Visual Studio Projects\EntityFrameworkCore\EFCore5WebApp\EFCore5WebApp.Core\
